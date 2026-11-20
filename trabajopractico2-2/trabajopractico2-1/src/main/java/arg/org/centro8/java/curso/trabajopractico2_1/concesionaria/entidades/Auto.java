@@ -13,8 +13,8 @@ import lombok.Getter;
 
 @EqualsAndHashCode(callSuper = true)
 /*
- * Metodo Equals:definido en Object compara a lo objetoos por
- * medio de su codiggo hash.
+ * Metodo Equals:definido en Object compara a lo objetos por
+ * medio de su codigo hash.
  * Codigo hash: es un valor entero calculado por Java a partir de
  * del estado o identidad del objeto.
  * Este valor se utiliza estructuras de datos hash para facilitar la busquedad y
