@@ -19,8 +19,8 @@ public class Moto extends Vehiculo {
 
     /*
      * se creo un constructor(metodo que permite crear objetos de la clase tienen el
-     * mismo nombre de la clase y a ser metodos siempre deben llevar parentesis)
-     * de la clase Moto.
+     * mismo nombre de la clase.
+     * 
      */
 
     public Moto(String marca, String modelo, int cilindrada, double precio) {
