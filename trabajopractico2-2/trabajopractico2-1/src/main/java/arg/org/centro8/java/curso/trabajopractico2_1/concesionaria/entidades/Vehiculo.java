@@ -32,7 +32,7 @@ public abstract class Vehiculo implements Comparable<Vehiculo> {
         return esteVehiculo.compareTo(otroVehiculo);
         /*
          * se compara el String se utiliza compareTo de la clase
-         * String para comparar ambas representaciones, tammbien la realizar
+         * String para comparar ambas representaciones, tammbien para realizar
          * ordenamiento natural(es el orden de clasificacion que se aplica al
          * objeto)un ejemplo seria el orden numerico para ordenar enteros
          */
